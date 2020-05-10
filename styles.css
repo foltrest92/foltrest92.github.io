@@ -1,0 +1,26 @@
+body{
+	background-color: #b5b5b5;
+	height: auto;
+}
+
+.maindiv {
+		margin-left: 10%;
+		margin-right: 10%;
+		margin-top: 0%;
+		background-color: #FFF;
+		width: 80%;
+
+}
+
+
+
+#h1{
+	padding-top: 2%;
+	text-align: center;
+}
+
+.footer_text{
+	text-align: center;
+	padding-top: 1%;
+	padding-bottom: 3%;
+}
